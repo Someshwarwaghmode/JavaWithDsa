@@ -10,7 +10,7 @@ public class p14 {
         for(int row=1; row<=4; row++){
             for(int col=1; col<=4-row+4; col++){
                 if(cunt>=col){
-                    System.out.print("  ");
+                    System.out.print("   ");
                 }
                 else{
                     System.out.print(" * ");
