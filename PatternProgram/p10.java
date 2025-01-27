@@ -1,6 +1,4 @@
 package PatternProgram;
-import java.util.Scanner;
-
 public class p10 {
     public static void main(String[] args) {
         f1();
